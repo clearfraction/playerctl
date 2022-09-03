@@ -70,4 +70,3 @@ rm -rf %{buildroot}/usr/share/man
 /usr/include/playerctl/
 /usr/lib64/libplayerctl.so
 /usr/lib64/pkgconfig/playerctl.pc
-/usr/share/abi/libplayerctl.so.2.abi
